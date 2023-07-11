@@ -4,7 +4,7 @@ The 12th BIU Winter School on Cryptography
 + FSS
 1. Elette Boyle: Function Secret Sharing – part 1  [Slides parts 1-3](./FSS/Elette%20Boyle-%20Function%20Secret%20Sharing%20%E2%80%93%20part%201-3.pdf) [video](https://www.youtube.com/watch?v=fAXlOOs2t88)
 2. Elette Boyle: Function Secret Sharing – part 2 [video](https://www.youtube.com/watch?v=Zm-MUVve2_w)
-3. Elette Boyle: Function Secret Sharing – part 3 [video]()https://www.youtube.com/watch?v=ORBLeo3lB4U&t=9s
+3. Elette Boyle: Function Secret Sharing – part 3 [video](https://www.youtube.com/watch?v=ORBLeo3lB4U&t=9s)
 
 + ORAM
 1. Gilad Asharov: Oblivious RAM – part 1 [Slides](./ORAM/Gilad%20Asharov-%20Oblivious%20RAM%20%E2%80%93%20part%201.pdf) [video](https://www.youtube.com/watch?v=2Dhtzyr6KTM&list=PL8Vt-7cSFnw1F7bBFws2kWA-7JVFkqKTy&index=6)
